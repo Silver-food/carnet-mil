@@ -1,0 +1,17 @@
+{
+  "name": "Carnet de notes MIL",
+  "short_name": "Carnet MIL",
+  "description": "Notation des étudiants du Master Management International & Logistique — HEM.",
+  "lang": "fr",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3F6",
+  "theme_color": "#00587C",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
